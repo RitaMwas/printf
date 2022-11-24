@@ -20,7 +20,7 @@ Write a function that produces output according to a format.
 You don't have to hnadle flag characters, field width, precision and length modifiers.
 
 
-#### Task 1. Education is when you read the fine print. Experience is what you get if you don't
+### Task 1. Education is when you read the fine print. Experience is what you get if you don't
 
 The following conversion specifiers are being handled:
 1. d
