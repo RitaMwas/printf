@@ -13,7 +13,7 @@ int print_rot13(va_list args, int len)
 	int i, position;
 
 	char r1[] = "NOPQRSTUVWXYZABCDEFGHIJKLM      nopqrstuvwxyzabcdefghijklm";
-	
+
 	char *str = va_arg(args, char *);
 
 	if (str == NULL)
